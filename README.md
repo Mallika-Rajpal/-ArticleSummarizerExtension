@@ -10,7 +10,7 @@ An intelligent Chrome extension that summarizes long articles using the **Gemini
 -  Lightweight Chrome extension — runs directly in the browser
 -  Securely handles your API key (via local storage)
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - HTML, CSS, JavaScript
 - Manifest V3
